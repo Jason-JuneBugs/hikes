@@ -1,0 +1,31 @@
+[
+{
+   
+  "title": "Abel Tasman Coast Track",
+  "address": "Abel Tasman National Park, South Island,NZ",
+  "category": "Beach Hike",
+  "img": "https://www.outsideonline.com/wp-content/uploads/migrated-images_parent/migrated-images_8/Abel+Tasman.JPG?width=800",
+  "description":"Some 30 miles of golden sand beaches, granite cliffs, and subtropical bush line this coastal track, lapped by clear azure waters where fur seals amass in play."
+},
+{
+  "title": "Tongariro Alpine Crossing",
+  "address": "Tongariro National Park, North Island,NZ",
+  "category": "Day Hike ",
+  "img": "https://www.outsideonline.com/wp-content/uploads/migrated-images_parent/migrated-images_8/Tongariro.JPG?width=800",
+  "description":"For Lord of The Rings fans, Tongariro National Park is the land of Mordor in the dark, craggy flesh."
+},
+{
+  "title": "Mueller Hut Route",
+  "address": "Mount Cook National Park, South Island,NZ",
+  "category": "Overnight Hike  ",
+  "img": "https://www.outsideonline.com/wp-content/uploads/migrated-images_parent/migrated-images_8/Mueller+Hut_Mount+Cook.JPG?width=800",
+  "description":"The snowcapped dome of Mount Cook, New Zealand’s tallest peak at 12,316 feet, dominates the glaciated terrain rising above the path to Mueller Hut, a spare red trekker’s hut cantilevered into the side of a scree slope on a high alpine plateau."
+},
+{
+  "title": "Mt. Victoria Trails",
+  "address": "Wellington, North Island,NZ",
+  "category": "City Hike ",
+  "img": "https://www.outsideonline.com/wp-content/uploads/migrated-images_parent/migrated-images_8/Mt+Victoria_Wellington.JPG?width=800",
+  "description":"It’s no secret that New Zealand boasts huge stretches of rugged, bucolic landscapes with more livestock than humans. But even Wellington, the Kiwi’s capital city of 450,000, is buffered by a swath of semi-wild green hills, dubbed the Town Belt, that was set aside for aesthetics and recreation in 1840. "
+}
+]
